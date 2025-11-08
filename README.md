@@ -31,7 +31,7 @@ Over the next 100 days, I’ll be solving **mid to hard-level DSA problems** in 
 All of my daily progress, including topics, problem names, and insights, will be maintained in a **Google Sheets Tracker**.  
 This will be made public once I complete the challenge 👇  
 
-👉 **[View Tracker (Available on Day 100)](https://placeholder-link.com)**  
+👉 **[View Tracker (Available on Day 100)](https://docs.google.com/spreadsheets/d/1tLcLfc4gKFNSpkcuTVHsgH6vNoRxCRwUTRTOrfyt8eA/edit?usp=sharing)**  
 
 ---
 
